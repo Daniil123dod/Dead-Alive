@@ -3,46 +3,49 @@
    display: block;
    padding: 0;
    text-align: center;
-   }
-   
-   .BlockSait1{
+}
+
+.BlockSait1 {
    margin: 20px;
    background-color: #8bf599;
    border: 3px dotted #f86565;
    padding: 20px 10px;
    width: calc(33% - 24px);
    display: inline-block;
-      
-   }
-   .BlockSait2{
+
+}
+
+.BlockSait2 {
    margin: 20px;
    background-color: #8bf599;
    border: 3px dotted #f86565;
    padding: 20px 10px;
    width: calc(33% - 24px);
    display: inline-block;
-      
-   }
-   .BlockSait3 {
+
+}
+
+.BlockSait3 {
    margin: 20px;
    background-color: #8bf599;
    border: 3px dotted #f86565;
    padding: 20px 10px;
    width: calc(33% - 24px);
    display: inline-block;
-   
-   }
-   .BlockSait4 {
-      margin: 20px;
-      background-color: #8bf599;
-      border: 3px dotted #f86565;
-      padding: 20px 10px;
-      width: calc(33% - 24px);
-      display: inline-block;
-      
-      }
-   
-   .block {
+
+}
+
+.BlockSait4 {
+   margin: 20px;
+   background-color: #8bf599;
+   border: 3px dotted #f86565;
+   padding: 20px 10px;
+   width: calc(33% - 24px);
+   display: inline-block;
+
+}
+
+.block {
    border: 10px solid #1b2325;
    width: 217px;
    float: left;
@@ -51,16 +54,16 @@
    height: 432px;
    overflow: hidden;
    border-radius: 50px;
-   }
-   
-   .wrap {
+}
+
+.wrap {
    width: 1300px;
    margin-top: 20px;
    position: absolute;
    left: 55%;
    margin-left: -650px;
-   }
-   
-   body {
+}
+
+body {
    background-color: #407c0f;
-   }
+}
